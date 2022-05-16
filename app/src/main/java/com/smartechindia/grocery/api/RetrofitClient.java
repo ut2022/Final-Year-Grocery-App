@@ -9,7 +9,7 @@ import retrofit2.converter.scalars.ScalarsConverterFactory;
 
 public class RetrofitClient {
 
-    private static final String BASE_URL = "https://smartechindia.in/niwaimart/api/";
+    private static final String BASE_URL = "https://smart.in/mart/api/";
     public static Retrofit retrofit=null;
     public static Retrofit getRetrofit() {
 
